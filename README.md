@@ -1,6 +1,6 @@
 # ApplicationJsonAnalysis
 
-Пример входного файла в папке проекта exampleJson.json
+Пример входного файла в папке проекта exampleFile.json
 
 В первом окне пользовать может:
 
